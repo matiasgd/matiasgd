@@ -1,7 +1,7 @@
 # 👩‍💻 Magister Candidate, Business & Tech in Saint Andrews University | 📊 Accountant | 💻 Full Stack Developer
 
 ## 🛠️ Stack:
-![JavaScript](https://path/to/javascript-logo.png) ![React](https://path/to/react-logo.png) (Redux) ![Node.js](https://path/to/nodejs-logo.png) ![Express](https://path/to/express-logo.png) ![PostgreSQL](https://path/to/postgresql-logo.png) ![MongoDB](https://path/to/mongodb-logo.png) ![UX/UI](https://path/to/uxui-logo.png) ![Salesforce Adm.](https://path/to/salesforce-logo.png)
+![JavaScript]([https://path/to/javascript-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FArchivo%3AJavaScript-logo.png&psig=AOvVaw3bDaqAcofr1ErXFosjWjmb&ust=1682544243991000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjHo_H7xf4CFQAAAAAdAAAAABAE)) ![React](https://path/to/react-logo.png) (Redux) ![Node.js](https://path/to/nodejs-logo.png) ![Express](https://path/to/express-logo.png) ![PostgreSQL](https://path/to/postgresql-logo.png) ![MongoDB](https://path/to/mongodb-logo.png) ![UX/UI](https://path/to/uxui-logo.png) ![Salesforce Adm.](https://path/to/salesforce-logo.png)
 
 ## 🌟 Description:
 As a passionate individual with a natural ability to add value to my projects, I thrive in both team environments and individual challenges. Education and career growth are key priorities for me, which is why I seek a role as a tech leader where I can continue to develop my skills and drive impactful results.
