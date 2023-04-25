@@ -33,13 +33,11 @@ As a passionate individual with a natural ability to add value to my projects, I
 ### 🏫 Universidad de San Andrés
 **Master candidate in Business & Technology, Management & IT**  
 📅 may. 2022 - dic. 2023  
-💡 Aptitudes: Scrum · Metodologías ágiles
 
 ### 🏫 Plataforma 5 - Coding Bootcamp
 **Fullstack Developer, Javascript, Node JS, React**  
 📅 ene. 2023 - abr. 2023  
 🔖 800 hours of programming, full stack javascript training  
-💡 Aptitudes: JavaScript · Scrum · React.js · Node.js · Desarrollo Full Stack
 
 ### 🏫 Universidad de Buenos Aires
 **Certified Accountant**  
