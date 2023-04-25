@@ -1,5 +1,16 @@
 # 👋 Hi, I'm a Magister Candidate, Business & Tech at Saint Andrews University, Accountant, and Full Stack Developer
 
+## 🌐 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/matiasgd/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://trailblazer.me/id/mgdominguez" target="_blank">
+    <img src="https://img.shields.io/badge/Trailhead-008037?style=for-the-badge&logo=salesforce&logoColor=white" height="30"/>
+  </a>
+</p>
+
 ## 🛠 Stack
 
 <p>
