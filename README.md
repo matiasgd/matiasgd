@@ -1,4 +1,5 @@
-# 👋 Hi, I'm a Magister Candidate, Business & Tech at Saint Andrews University, Accountant, and Full Stack Developer
+# 👋 Hi, I'm Matias Dominguez. #
+## Full stack Developera || Magister Candidate, Business & Tech at Saint Andrews University || Accountant
 
 ## 🌐 Connect with me
 
@@ -25,7 +26,7 @@
 
 ## 📝 Description
 
-As a passionate individual with a natural ability to add value to my projects, I thrive in both team environments and individual challenges. Education and career growth are key priorities for me, which is why I seek a role as a tech leader where I can continue to develop my skills and drive impactful results.
+As a passionate individual with a natural ability to add value to my projects, I thrive in both team environments and individual challenges. Education and career growth are key priorities for me, which is why I seek a role as a tech collaborator where I can continue to develop my skills and drive impactful results.
 
 ## 🎓 Education
 
