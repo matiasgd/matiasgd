@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Matias Dominguez. #
-Full stack Developera || Magister Candidate, Business & Tech at Saint Andrews University || Accountant
+Fullstack Developer   ||   Magister Candidate, Business & Tech at Saint Andrews University   ||   Accountant
 
 ## 🌐 Connect with me
 
