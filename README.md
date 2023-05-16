@@ -36,7 +36,7 @@ As a passionate individual with a natural ability to add value to my projects, I
 
 ### 🏫 Plataforma 5 - Coding Bootcamp
 **Fullstack Developer, Javascript, Node JS, React**  
-📅 ene. 2023 - abr. 2023  
+📅 dic. 2022 - abr. 2023  
 🔖 800 hours of programming, full stack javascript training  
 
 ### 🏫 Universidad de Buenos Aires
